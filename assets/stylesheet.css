@@ -54,5 +54,14 @@ span {
 .clear	{
 	clear: left;
 }
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  border-top: 2px solid grey; 
+  text-align: center;
+}
 
 
